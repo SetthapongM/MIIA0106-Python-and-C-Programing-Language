@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\setth\\Downloads\\Lab05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F91F7EA8-1425-4AEF-907D-1AA850E23686}|Lab05\\Lab05.vcxproj|C:\\Users\\setth\\Downloads\\Lab05\\Lab05\\Lab05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F91F7EA8-1425-4AEF-907D-1AA850E23686}|Lab05\\Lab05.vcxproj|solutionrelative:Lab05\\Lab05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab05.cpp",
+              "DocumentMoniker": "C:\\Users\\setth\\Downloads\\Lab05\\Lab05\\Lab05.cpp",
+              "RelativeDocumentMoniker": "Lab05\\Lab05.cpp",
+              "ToolTip": "C:\\Users\\setth\\Downloads\\Lab05\\Lab05\\Lab05.cpp",
+              "RelativeToolTip": "Lab05\\Lab05.cpp",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwF4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T17:20:36.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

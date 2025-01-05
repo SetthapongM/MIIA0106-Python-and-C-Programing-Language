@@ -1,0 +1,6 @@
+﻿  Lab02_1.cpp
+C:\Mahanakorn\2-2567\MIIA0106 Python and C Programing Language\Lab\Lab02_1\Lab02_1\Lab02_1.cpp(6,10): warning C4566: character represented by universal-character-name '\u200B' cannot be represented in the current code page (1252)
+C:\Mahanakorn\2-2567\MIIA0106 Python and C Programing Language\Lab\Lab02_1\Lab02_1\Lab02_1.cpp(18,11): warning C4566: character represented by universal-character-name '\u200B' cannot be represented in the current code page (1252)
+C:\Mahanakorn\2-2567\MIIA0106 Python and C Programing Language\Lab\Lab02_1\Lab02_1\Lab02_1.cpp(91,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Mahanakorn\2-2567\MIIA0106 Python and C Programing Language\Lab\Lab02_1\Lab02_1\Lab02_1.cpp(75,9): warning C4101: 'wages': unreferenced local variable
+  Lab02_1.vcxproj -> C:\Mahanakorn\2-2567\MIIA0106 Python and C Programing Language\Lab\Lab02_1\x64\Debug\Lab02_1.exe

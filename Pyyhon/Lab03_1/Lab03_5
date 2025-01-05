@@ -1,0 +1,15 @@
+num1 = 0  # ref
+num2 = 0  # key10
+
+num1 = int(input("Enter Number REF: "))
+
+while True:
+    num2 = int(input("Enter Number key: "))
+    
+    if num2 == num1:
+        print("Num1 == Num2")
+        break
+    elif num2 > num1:
+        print("too much")
+    else:
+        print("too low")

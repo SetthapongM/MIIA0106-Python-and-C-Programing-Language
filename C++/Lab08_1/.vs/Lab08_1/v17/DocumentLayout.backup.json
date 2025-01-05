@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mahanakorn\\2-2567\\MIIA0106 Python and C Programing Language\\Lab\\C\u002B\u002B\\Lab08_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42A239CA-E915-4305-9F0E-3401D8D4703F}|Lab08_1\\Lab08_1.vcxproj|C:\\Mahanakorn\\2-2567\\MIIA0106 Python and C Programing Language\\Lab\\C\u002B\u002B\\Lab08_1\\Lab08_1\\Lab08_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42A239CA-E915-4305-9F0E-3401D8D4703F}|Lab08_1\\Lab08_1.vcxproj|solutionrelative:Lab08_1\\Lab08_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab08_1.cpp",
+              "DocumentMoniker": "C:\\Mahanakorn\\2-2567\\MIIA0106 Python and C Programing Language\\Lab\\C\u002B\u002B\\Lab08_1\\Lab08_1\\Lab08_1.cpp",
+              "RelativeDocumentMoniker": "Lab08_1\\Lab08_1.cpp",
+              "ToolTip": "C:\\Mahanakorn\\2-2567\\MIIA0106 Python and C Programing Language\\Lab\\C\u002B\u002B\\Lab08_1\\Lab08_1\\Lab08_1.cpp*",
+              "RelativeToolTip": "Lab08_1\\Lab08_1.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-05T01:32:04.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
