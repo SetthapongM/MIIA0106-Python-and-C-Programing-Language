@@ -1,9 +1,0 @@
-i = 1
-for i in range(13):
-    print("Answer : 9 x ",i," = ",9*i)
-
-print("======================================")
-
-a = 1
-for a in range(13):
-    print("Answer : 0 x ",a," = ",9*a)
